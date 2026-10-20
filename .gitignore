@@ -1,0 +1,10 @@
+# Local, editor, and OS artifacts
+.DS_Store
+__MACOSX/
+._*
+*.zip
+*.swp
+*.tmp
+.vscode/
+.idea/
+REVIEW-NOTES.md
